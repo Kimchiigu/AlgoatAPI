@@ -32,8 +32,8 @@ rake = Rake()
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",
-    "http://localhost:8000",
+    "https://algoat.vercel.app/",
+    "https://algoat-api-aqg5gqeac7bje7bf.eastus-01.azurewebsites.net",
 ]
 
 app.add_middleware(
