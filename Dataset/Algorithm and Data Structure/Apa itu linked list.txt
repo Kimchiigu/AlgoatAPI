@@ -1,0 +1,100 @@
+1. Linked list adalah struktur data linear di mana elemen-elemen disimpan dalam nodes.
+2. Setiap node dalam linked list mengandung data dan referensi ke node berikutnya.
+3. Linked lists bisa berupa singly linked, doubly linked, atau circularly linked.
+4. Dalam singly linked list, setiap node menunjuk ke node berikutnya.
+5. Dalam doubly linked list, setiap node menunjuk ke node berikutnya dan node sebelumnya.
+6. Linked list memungkinkan insertion dan deletion elemen yang efisien.
+7. Linked lists bersifat dinamis dan dapat bertambah atau berkurang ukurannya sesuai kebutuhan.
+8. Head dari linked list adalah node pertama.
+9. Tail dari linked list adalah node terakhir yang menunjuk ke null dalam singly linked list.
+10. Linked lists digunakan untuk mengimplementasikan stacks dan queues.
+11. Dalam circular linked list, node terakhir menunjuk kembali ke node pertama.
+12. Linked lists menyediakan akses berurutan ke elemen-elemen.
+13. Elemen-elemen dalam linked list tidak disimpan dalam lokasi memori yang berdekatan.
+14. Linked lists dapat ditelusuri mulai dari head hingga akhir.
+15. Insertion di awal linked list membutuhkan waktu konstan, O(1).
+16. Deletion dari sebuah node dalam linked list memerlukan pembaruan referensi dari nodes yang berdekatan.
+17. Linked lists digunakan dalam implementasi hash tables.
+18. Ukuran dari linked list adalah jumlah nodes yang dikandungnya.
+19. Linked lists lebih disukai daripada arrays ketika insertion dan deletion yang sering diperlukan.
+20. Performa linked lists tidak dipengaruhi oleh ukuran awal struktur data.
+21. Linked lists bersifat dinamis dan tidak memerlukan ukuran yang telah ditentukan sebelumnya.
+22. Linked lists memungkinkan insertion dan deletion yang efisien di posisi mana pun.
+23. Circular linked list membentuk siklus dengan menghubungkan node terakhir ke node pertama.
+24. Linked lists digunakan untuk mengimplementasikan adjacency lists dalam representasi grafis.
+25. Setiap node dalam linked list mengandung nilai dan pointer ke node berikutnya.
+26. Linked lists tidak disimpan dalam lokasi memori yang berdekatan.
+27. Dalam singly linked list, setiap node hanya menunjuk ke node berikutnya.
+28. Dalam doubly linked list, nodes memiliki referensi ke node berikutnya dan node sebelumnya.
+29. Linked lists menyediakan akses berurutan yang efisien tetapi tidak untuk akses acak.
+30. Head dari linked list adalah node pertama, dan tail adalah node terakhir.
+31. Linked lists dapat bertambah dan berkurang ukurannya secara dinamis selama eksekusi.
+32. Insertion dan deletion dalam linked list tidak memerlukan pergeseran elemen.
+33. Linked lists digunakan untuk mengimplementasikan stacks, queues, dan abstract data types lainnya.
+34. Kompleksitas waktu untuk insertion atau deletion elemen di awal linked list adalah O(1).
+35. Mencari elemen dalam linked list memakan waktu O(n) dalam kasus terburuk.
+36. Circular linked lists digunakan dalam aplikasi yang memerlukan traversal melingkar.
+37. Linked lists digunakan dalam algoritma manajemen memori.
+38. Linked lists dapat digabungkan dengan memperbarui pointers dari node terakhir dari satu list.
+39. Setiap node dalam linked list dapat dialokasikan dan dialokasikan kembali secara dinamis.
+40. Linked lists digunakan dalam implementasi file systems.
+41. Performa linked lists tidak dipengaruhi oleh ukuran struktur data.
+42. Linked lists dapat ditelusuri secara rekursif atau iteratif.
+43. Insertion di tengah linked list memerlukan pembaruan pointers dari nodes yang berdekatan.
+44. Linked lists menyediakan cara yang fleksibel untuk mengelola koleksi data yang dinamis.
+45. Linked lists digunakan dalam desain mekanisme buffering data yang efisien.
+46. Linked lists digunakan dalam implementasi berbagai struktur data seperti stacks dan queues.
+47. Linked lists dapat digunakan untuk mengimplementasikan aritmatika polinomial.
+48. Linked lists dapat merepresentasikan matriks jarang secara efisien.
+49. Linked lists digunakan dalam implementasi berbagai algoritma dalam computer graphics.
+50. Linked lists dapat dibalik dengan mengubah arah pointers.
+51. Linked lists digunakan untuk mengelola eksekusi proses dalam operating systems.
+52. Linked lists digunakan dalam implementasi berbagai algoritma penjadwalan.
+53. Linked lists menyediakan cara untuk mengelola koleksi objek secara dinamis.
+54. Linked lists dapat diurutkan menggunakan berbagai algoritma pengurutan.
+55. Linked lists digunakan dalam implementasi berbagai algoritma pemrosesan teks.
+56. Linked lists dapat digabungkan dengan memperbarui pointers dari node terakhir dari satu list.
+57. Linked lists menyediakan cara untuk mengelola koleksi data dengan ukuran yang bervariasi.
+58. Linked lists dapat digunakan untuk merepresentasikan grafis dan pohon.
+59. Linked lists digunakan dalam desain mekanisme caching yang efisien.
+60. Linked lists digunakan dalam implementasi berbagai algoritma kompresi data.
+61. Linked lists menyediakan cara untuk mengelola koleksi data dengan ukuran yang dinamis.
+62. Linked lists digunakan dalam implementasi berbagai algoritma pengambilan data.
+63. Linked lists menyediakan cara untuk mengelola koleksi data dengan ukuran yang fleksibel.
+64. Linked lists digunakan dalam implementasi berbagai algoritma penyimpanan data.
+65. Linked lists menyediakan cara untuk mengelola koleksi data dengan ukuran yang variabel.
+66. Linked lists digunakan dalam implementasi berbagai algoritma manipulasi data.
+67. Linked lists menyediakan cara untuk mengelola koleksi data dengan ukuran yang berbeda.
+68. Linked lists digunakan dalam implementasi berbagai algoritma transformasi data.
+69. Linked lists menyediakan cara untuk mengelola koleksi data dengan alokasi yang dinamis.
+70. Linked lists digunakan dalam implementasi berbagai algoritma traversal data.
+71. Linked lists menyediakan cara untuk mengelola koleksi data dengan dealokasi yang dinamis.
+72. Linked lists digunakan dalam implementasi berbagai algoritma iterasi data.
+73. Linked lists menyediakan cara untuk mengelola koleksi data dengan pertumbuhan yang dinamis.
+74. Linked lists digunakan dalam implementasi berbagai algoritma agregasi data.
+75. Linked lists menyediakan cara untuk mengelola koleksi data dengan penyusutan yang dinamis.
+76. Linked lists digunakan dalam implementasi berbagai algoritma pemisahan data.
+77. Linked lists menyediakan cara untuk mengelola koleksi data dengan panjang yang variabel.
+78. Linked lists digunakan dalam implementasi berbagai algoritma penggabungan data.
+79. Linked lists menyediakan cara untuk mengelola koleksi data dengan panjang yang berbeda.
+80. Linked lists digunakan dalam implementasi berbagai algoritma pemisahan data.
+81. Linked lists menyediakan cara untuk mengelola koleksi data dengan memori yang dinamis.
+82. Linked lists digunakan dalam implementasi berbagai algoritma penggabungan data.
+83. Linked lists menyediakan cara untuk mengelola koleksi data dengan pointers yang dinamis.
+84. Linked lists digunakan dalam implementasi berbagai algoritma pembalikan data.
+85. Linked lists menyediakan cara untuk mengelola koleksi data dengan referensi yang dinamis.
+86. Linked lists digunakan dalam implementasi berbagai algoritma pengurutan data.
+87. Linked lists menyediakan cara untuk mengelola koleksi data dengan links yang dinamis.
+88. Linked lists digunakan dalam implementasi berbagai algoritma pencarian data.
+89. Linked lists menyediakan cara untuk mengelola koleksi data dengan memori yang fleksibel.
+90. Linked lists digunakan dalam implementasi berbagai algoritma penyaringan data.
+91. Linked lists menyediakan cara untuk mengelola koleksi data dengan pointers yang fleksibel.
+92. Linked lists digunakan dalam implementasi berbagai algoritma pemetaan data.
+93. Linked lists menyediakan cara untuk mengelola koleksi data dengan referensi yang fleksibel.
+94. Linked lists digunakan dalam implementasi berbagai algoritma pengurangan data.
+95. Linked lists menyediakan cara untuk mengelola koleksi data dengan links yang fleksibel.
+96. Linked lists digunakan dalam implementasi berbagai algoritma kompresi data.
+97. Linked lists menyediakan cara untuk mengelola koleksi data dengan memori yang efisien.
+98. Linked lists digunakan dalam implementasi berbagai algoritma dekompresi data.
+99. Linked lists menyediakan cara untuk mengelola koleksi data dengan pointers yang efisien.
+100. Linked lists digunakan dalam implementasi berbagai algoritma alokasi data.

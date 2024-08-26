@@ -1,0 +1,100 @@
+1. Binary tree adalah struktur data tree di mana setiap node memiliki maksimal dua children.
+2. Dalam binary tree, setiap node dapat memiliki left child, right child, atau keduanya.
+3. Binary trees digunakan untuk mengimplementasikan binary search trees dan binary heaps.
+4. Node paling atas dari binary tree disebut root.
+5. Binary trees dapat berbentuk balanced atau unbalanced.
+6. Setiap node dalam binary tree mengandung data dan referensi ke children-nya.
+7. Binary trees adalah tipe struktur data hierarkis.
+8. Dalam binary tree, nodes dihubungkan oleh edges.
+9. Binary trees sering digunakan untuk pencarian dan pengurutan data.
+10. Depth dari binary tree adalah panjang dari jalur terpanjang dari root ke leaf.
+11. Binary trees dapat dilalui (traversed) dalam pre-order, in-order, atau post-order.
+12. Full binary tree adalah tree di mana setiap node memiliki 0 atau 2 children.
+13. Complete binary tree adalah tree di mana semua level terisi penuh kecuali mungkin level terakhir.
+14. Binary trees dapat digunakan untuk merepresentasikan ekspresi dalam matematika.
+15. Binary tree adalah kasus khusus dari k-ary tree di mana k=2.
+16. Height dari binary tree adalah jumlah edges pada jalur terpanjang dari root ke leaf.
+17. Binary trees digunakan dalam implementasi algoritma pencarian biner (binary search).
+18. Dalam balanced binary tree, perbedaan height antara left dan right subtrees dari setiap node tidak lebih dari satu.
+19. Binary trees digunakan untuk mengimplementasikan priority queues dalam bentuk binary heaps.
+20. Skewed binary tree adalah tree di mana semua nodes hanya memiliki satu child, baik kiri maupun kanan.
+21. Binary trees digunakan dalam pengindeksan database untuk menyediakan pengambilan data yang efisien.
+22. Balanced binary tree memastikan bahwa perbedaan height antara left dan right subtrees dari setiap node tidak lebih dari satu.
+23. AVL trees dan Red-Black trees adalah contoh dari balanced binary trees.
+24. Binary trees digunakan dalam Huffman coding untuk kompresi data.
+25. Dalam binary search tree, nilai left child lebih kecil dari nilai parent-nya.
+26. Nilai right child dalam binary search tree lebih besar dari nilai parent-nya.
+27. Jumlah maksimum nodes pada level \( n \) dari binary tree adalah \( 2^n \).
+28. Jumlah total nodes dalam complete binary tree dengan height \( h \) adalah \( 2^{h+1} - 1 \).
+29. Minimum height dari binary tree dengan \( n \) nodes adalah \( \log_2(n+1) - 1 \).
+30. Binary trees dapat diimplementasikan menggunakan nodes yang terhubung atau representasi berbasis array.
+31. Preorder traversal dari binary tree memproses nodes dalam urutan: root, left, right.
+32. Inorder traversal dari binary tree memproses nodes dalam urutan: left, root, right.
+33. Postorder traversal dari binary tree memproses nodes dalam urutan: left, right, root.
+34. Binary trees dapat digunakan untuk mengimplementasikan expression trees untuk evaluasi ekspresi matematika.
+35. Binary tree disebut degenerate jika setiap parent node hanya memiliki satu child.
+36. Degenerate (atau pathological) binary trees menyerupai linked lists dan memiliki performa yang buruk.
+37. Binary trees mendukung pencarian rentang yang efisien dan set dinamis dari elemen yang terurut.
+38. Struktur binary tree dapat dimodifikasi untuk membuat multiway trees, seperti 2-3 trees.
+39. Treesort, sebuah algoritma pengurutan, menggunakan binary search trees untuk mengurutkan elemen.
+40. Binary trees dapat merepresentasikan hubungan hierarkis, seperti struktur organisasi.
+41. Binary trees digunakan dalam navigasi sistem file untuk mengorganisir direktori dan file.
+42. Root node dari binary tree tidak memiliki parent.
+43. Dalam binary tree, leaf nodes tidak memiliki children.
+44. Proses mengubah binary tree menjadi linked list dikenal sebagai tree flattening.
+45. Binary trees adalah struktur dasar dalam banyak algoritma dan struktur data.
+46. Nodes dalam binary tree dikunjungi beberapa kali selama urutan traversal yang berbeda.
+47. Binary tree dengan \( n \) nodes memiliki \( n-1 \) edges.
+48. Binary trees digunakan dalam algoritma pengambilan keputusan, seperti decision trees.
+49. Proses menyeimbangkan binary tree memastikan waktu pencarian yang optimal.
+50. Binary trees dapat diperluas menjadi k-ary trees, di mana setiap node memiliki hingga \( k \) children.
+51. Self-balancing binary trees secara otomatis menjaga keseimbangannya selama proses insertion dan deletion.
+52. Kompleksitas pencarian elemen dalam unbalanced binary tree dapat menurun menjadi O(n).
+53. Binary trees memfasilitasi operasi insertion, deletion, dan lookup yang cepat.
+54. Binary trees dapat digunakan dalam algoritma routing jaringan untuk menentukan jalur optimal.
+55. Jumlah kemungkinan binary trees dengan \( n \) nodes diberikan oleh Catalan number.
+56. Binary trees digunakan dalam representasi ekspresi aritmatika dalam compiler.
+57. Root dari binary tree adalah ancestor dari semua nodes lainnya dalam tree.
+58. Depth dari sebuah node dalam binary tree adalah jumlah edges dari root ke node tersebut.
+59. Height dari sebuah node adalah jumlah edges pada jalur terpanjang dari node ke leaf.
+60. Binary trees dapat divisualisasikan sebagai struktur hierarkis dalam diagram dan grafik.
+61. Binary trees sangat penting dalam konstruksi algoritma pencarian yang efisien.
+62. Proses membangun binary tree dari data traversal dikenal sebagai tree reconstruction.
+63. Binary trees digunakan dalam pemrosesan bahasa alami untuk parsing sintaksis.
+64. Dalam grafik komputer, binary space partitioning trees digunakan untuk mengatur objek dalam ruang.
+65. Binary trees dapat dicerminkan, menciptakan tree di mana left dan right children dipertukarkan.
+66. Binary trees penting dalam implementasi berbagai algoritma kombinatorial.
+67. Dalam binary tree, sibling nodes berbagi parent yang sama.
+68. Binary trees dapat diperluas menjadi segment trees untuk masalah query rentang.
+69. Binary trees digunakan dalam desain teknik optimasi query database.
+70. Konsep binary trees meluas ke binary decision diagrams dalam representasi logika.
+71. Binary trees membentuk dasar dari banyak algoritma pengembangan game.
+72. Binary trees dapat digunakan untuk merepresentasikan state spaces dalam kecerdasan buatan.
+73. Dalam binary tree, nodes pada level yang sama dikatakan berada pada depth yang sama.
+74. Binary trees digunakan dalam desain sistem cache yang efisien.
+75. Binary trees dapat digunakan untuk mengimplementasikan berbagai operasi priority queue.
+76. Binary trees berperan penting dalam routing dan manajemen paket jaringan.
+77. Traversal dari binary trees sangat mendasar dalam algoritma berbasis tree.
+78. Binary trees digunakan dalam desain struktur data yang hemat memori.
+79. Binary trees menyediakan kerangka kerja yang fleksibel untuk representasi data hierarkis.
+80. Binary trees dapat digunakan untuk menyelesaikan berbagai masalah geometri komputasi.
+81. Binary trees digunakan dalam konstruksi skema pengindeksan yang efisien.
+82. Konsep binary trees meluas ke struktur data trie untuk pencocokan string.
+83. Binary trees digunakan dalam implementasi berbagai teknik kompresi data.
+84. Binary trees digunakan untuk memodelkan hubungan dalam jaringan sosial.
+85. Properti binary trees dimanfaatkan dalam desain sistem terdistribusi.
+86. Binary trees mendukung pencarian rentang yang efisien.
+87. Binary trees sangat penting dalam implementasi algoritma pemrograman dinamis.
+88. Struktur binary trees digunakan dalam berbagai algoritma pembelajaran mesin.
+89. Binary trees dapat diserialisasikan dan dideserialisasikan untuk penyimpanan dan transmisi.
+90. Binary trees digunakan dalam desain algoritma penyeimbangan beban yang efektif.
+91. Binary trees mendukung implementasi algoritma penggabungan yang efisien.
+92. Binary trees digunakan dalam konstruksi algoritma backtracking yang efisien.
+93. Properti binary trees dimanfaatkan dalam algoritma genetika.
+94. Binary trees digunakan untuk memodelkan berbagai hubungan hierarkis dalam biologi.
+95. Binary trees digunakan dalam implementasi berbagai algoritma grafik.
+96. Binary trees dapat digunakan untuk menyelesaikan berbagai masalah optimasi dinamis.
+97. Binary trees sangat penting dalam desain sistem pengambilan data yang efisien.
+98. Binary trees digunakan dalam desain sistem yang tahan kesalahan yang efisien.
+99. Binary trees adalah dasar dalam implementasi algoritma parsing yang efisien.
+100. Binary trees menyediakan kerangka kerja yang kuat untuk representasi data yang terurut.

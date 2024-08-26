@@ -1,0 +1,100 @@
+Queue adalah struktur data linear yang mengikuti prinsip First In, First Out (FIFO).
+Dalam queue, elemen pertama yang ditambahkan adalah yang pertama dihapus.
+Operasi utama dari queue adalah enqueue dan dequeue.
+Operasi enqueue menambahkan elemen ke akhir queue.
+Operasi dequeue menghapus elemen dari bagian depan queue.
+Queue digunakan dalam algoritma pencarian breadth-first (BFS).
+Queue dapat diimplementasikan menggunakan array atau linked list.
+Bagian depan queue adalah elemen yang akan didequeue berikutnya.
+Bagian belakang queue adalah elemen yang paling baru ditambahkan.
+Ukuran queue adalah jumlah elemen yang ada di dalamnya.
+Queue digunakan dalam algoritma penjadwalan.
+Circular queue adalah queue yang melingkar ketika ujungnya tercapai.
+Priority queue adalah queue di mana elemen didequeue berdasarkan prioritas.
+Double-ended queue (deque) memungkinkan penyisipan dan penghapusan dari kedua ujungnya.
+Queue digunakan dalam buffering aliran data.
+Kompleksitas waktu operasi enqueue dan dequeue dalam queue adalah O(1).
+Queue digunakan dalam printer spooling.
+Queue digunakan untuk mengelola tugas dalam sistem operasi.
+Queue menyediakan cara untuk menangani banyak proses secara berurutan.
+Queue digunakan dalam menangani permintaan pada server web.
+Queue dapat divisualisasikan sebagai antrean orang di mana orang pertama dalam antrean adalah yang pertama dilayani.
+Operasi dequeue menghapus elemen dari bagian depan queue.
+Enqueue menambahkan elemen ke ujung belakang queue.
+Queue digunakan dalam algoritma pencarian breadth-first (BFS).
+Bagian depan queue adalah elemen yang akan didequeue berikutnya.
+Bagian belakang queue adalah elemen yang paling baru di-enqueue.
+Circular queue memungkinkan queue untuk menggunakan ruang kosong di bagian depan setelah ujung belakang mencapai akhir.
+Priority queue melayani elemen berdasarkan prioritas daripada hanya urutan kedatangan.
+Double-ended queue (deque) memungkinkan operasi di kedua ujung queue.
+Queue digunakan dalam implementasi BFS dalam traversal graf.
+Ukuran queue adalah jumlah elemen yang ada di dalamnya.
+Queue diimplementasikan menggunakan array, linked list, atau circular array.
+Queue digunakan dalam penjadwalan tugas di sistem operasi.
+Dalam priority queue, elemen dengan prioritas lebih tinggi didequeue sebelum elemen dengan prioritas lebih rendah.
+Queue digunakan dalam menangani permintaan di server web untuk mengelola beban.
+Circular queue menangani overflow dengan melingkar kembali ke awal array.
+Double-ended queue mendukung operasi di kedua ujung queue.
+Queue menyediakan cara untuk mengelola pemrosesan tugas secara berurutan.
+Queue digunakan dalam printer jaringan untuk mengelola pekerjaan cetak.
+Dalam circular queue, baik penunjuk depan maupun belakang dikelola secara melingkar.
+Queue memastikan bahwa elemen pertama yang ditambahkan adalah yang pertama dihapus.
+Priority queue digunakan dalam sistem operasi untuk penjadwalan proses.
+Queue digunakan untuk mengelola streaming data real-time.
+Queue menyediakan cara untuk menangani pemrosesan data asinkron.
+Dalam circular queue, overflow dihindari dengan menggunakan aritmetika modulo.
+Queue digunakan dalam mengelola paket jaringan yang masuk.
+Queue menyediakan cara untuk menangani banyak proses secara berurutan.
+Priority queue dapat diimplementasikan menggunakan binary heap.
+Queue digunakan dalam mengelola berbagi sumber daya di sistem terdistribusi.
+Kompleksitas waktu untuk operasi enqueue dan dequeue dalam queue adalah O(1).
+Queue digunakan dalam mengelola eksekusi tugas dalam pemrograman berbasis event.
+Circular queue membuat penggunaan memori yang tersedia lebih efisien.
+Queue digunakan dalam menangani permintaan interrupt dalam sistem perangkat keras.
+Priority queue digunakan dalam algoritma Dijkstra untuk pencarian jalur terpendek.
+Queue menyediakan cara untuk mengelola alur kerja di lingkungan produksi.
+Double-ended queue fleksibel dan memungkinkan operasi di kedua ujungnya.
+Queue digunakan dalam pengiriman pesan antar proses.
+Queue menyediakan cara untuk mengelola penjadwalan pekerjaan dalam sistem pemrosesan batch.
+Queue digunakan dalam simulasi untuk memodelkan proses dunia nyata.
+Circular queue digunakan dalam buffering aliran data.
+Queue memastikan ketertiban dalam menangani tugas yang tiba pada waktu yang berbeda.
+Queue digunakan dalam menangani komunikasi data asinkron.
+Priority queue mengelola tugas berdasarkan urgensi atau pentingnya.
+Queue menyediakan cara untuk mengelola pemrosesan data secara berurutan.
+Double-ended queue digunakan dalam algoritma deque untuk optimasi.
+Queue digunakan dalam mengelola permintaan layanan dalam aplikasi layanan pelanggan.
+Queue menyediakan cara untuk menangani tugas yang bergantung pada waktu dalam sistem real-time.
+Circular queue mengoptimalkan penggunaan memori dalam buffer berukuran tetap.
+Queue digunakan dalam mengelola antrian pekerjaan dalam sistem operasi.
+Priority queue digunakan dalam Huffman coding untuk kompresi data.
+Queue menyediakan cara untuk menangani koneksi yang masuk di server jaringan.
+Queue digunakan dalam mengelola tugas dalam robotika dan otomatisasi.
+Double-ended queue digunakan dalam implementasi cache LRU (Least Recently Used).
+Queue memastikan keadilan dalam memproses tugas dalam cara siapa datang pertama dilayani pertama.
+Queue digunakan dalam menangani pekerjaan cetak dalam printer spooler.
+Circular queue digunakan dalam mengelola buffer siklik dalam pemrosesan audio.
+Queue menyediakan cara untuk menangani tugas secara efisien.
+Priority queue digunakan dalam implementasi algoritma A* untuk pencarian jalur.
+Queue digunakan dalam menangani permintaan pada sumber daya bersama.
+Queue menyediakan cara untuk mengelola penanganan event dalam antarmuka pengguna grafis.
+Circular queue digunakan dalam mengelola buffer melingkar dalam sistem komunikasi.
+Queue digunakan dalam mengelola paket data di router jaringan.
+Priority queue digunakan dalam algoritma penyeimbangan beban.
+Queue menyediakan cara untuk menangani tugas dalam sistem pemrosesan batch.
+Double-ended queue digunakan dalam implementasi algoritma berbasis deque.
+Queue digunakan dalam mengelola penjadwalan tugas dalam sistem operasi real-time.
+Queue memastikan bahwa tugas diproses dalam urutan kedatangannya.
+Circular queue digunakan dalam mengelola penjadwalan tugas siklik.
+Queue menyediakan cara untuk menangani permintaan yang masuk dalam aplikasi server.
+Priority queue digunakan dalam mengelola prioritas tugas dalam sistem operasi.
+Queue digunakan dalam implementasi berbagai model simulasi.
+Queue menyediakan cara untuk mengelola eksekusi tugas dalam sistem terdistribusi.
+Circular queue digunakan dalam menangani alokasi memori yang melingkar.
+Queue digunakan dalam mengelola antrian cetak dalam printer jaringan.
+Queue memastikan ketertiban dalam memproses tugas secara berurutan.
+Priority queue mengelola tugas berdasarkan prioritas yang telah ditentukan.
+Queue menyediakan cara untuk menangani tugas yang sensitif terhadap waktu dalam aplikasi real-time.
+Circular queue mengoptimalkan penggunaan buffer berukuran tetap.
+Queue digunakan dalam menangani transfer data dalam sistem komunikasi.
+Queue menyediakan cara untuk mengelola alur kerja dalam lingkungan produksi.

@@ -1,0 +1,100 @@
+1. Enqueue menambahkan elemen ke akhir queue. Dequeue menghapus elemen dari depan queue.
+2. Dalam enqueue, elemen dimasukkan di bagian belakang queue. Operasi dequeue menghapus elemen depan.
+3. Operasi enqueue melibatkan penambahan elemen di ujung queue. Dequeue melibatkan penghapusan elemen dari kepala queue.
+4. Enqueue menambahkan elemen ke akhir queue. Dequeue menghapus elemen pertama, menggeser queue ke depan.
+5. Enqueue menempatkan elemen baru di bagian akhir. Dequeue mengambil elemen di bagian depan.
+6. Operasi enqueue dilakukan dengan memasukkan elemen di belakang. Dequeue dilakukan dengan menghapus elemen di depan.
+7. Enqueue menambahkan elemen ke bagian belakang. Dequeue menghapus elemen dari bagian depan.
+8. Operasi enqueue memasukkan elemen baru di belakang. Operasi dequeue menghapus elemen dari depan.
+9. Untuk enqueue, tambahkan item ke akhir queue. Untuk dequeue, hapus item dari awal queue.
+10. Enqueue menempatkan elemen baru di bagian belakang. Dequeue mengambil elemen depan dari queue.
+11. Enqueue menambahkan elemen ke belakang queue. Dequeue menghapus elemen dari depan.
+12. Operasi enqueue memasukkan data di bagian akhir. Dequeue menghapus data dari awal queue.
+13. Enqueue berarti memasukkan di belakang. Dequeue berarti menghapus dari depan.
+14. Enqueue menambahkan elemen di akhir queue. Dequeue menghapus elemen dari awal.
+15. Enqueue menambahkan data ke bagian belakang. Dequeue mengambil data dari bagian depan.
+16. Enqueue menempatkan elemen baru di bagian belakang queue. Dequeue mengambil elemen paling depan.
+17. Enqueue menambahkan item di bagian belakang queue. Dequeue menghapus item dari bagian depan.
+18. Operasi enqueue menambahkan elemen di akhir queue. Operasi dequeue menghapus elemen dari depan.
+19. Enqueue berarti menambahkan item di belakang. Dequeue berarti menghapus item dari depan.
+20. Enqueue menempatkan elemen di bagian belakang queue. Dequeue menghapus elemen depan.
+21. Enqueue menambahkan elemen baru ke bagian belakang. Dequeue menghapus elemen pertama di antrian.
+22. Enqueue melibatkan penyisipan di bagian akhir. Dequeue melibatkan penghapusan di bagian depan.
+23. Enqueue menempatkan elemen di akhir queue. Dequeue menghapus elemen pertama.
+24. Enqueue memasukkan data di bagian belakang. Dequeue menghapus data dari bagian depan.
+25. Enqueue menambahkan elemen di akhir queue. Dequeue menghapus elemen dari depan.
+26. Enqueue menambahkan elemen di bagian belakang queue. Dequeue menghapus elemen dari bagian depan.
+27. Enqueue berarti menambahkan elemen di bagian belakang. Dequeue berarti menghapus elemen dari bagian depan.
+28. Enqueue menambahkan elemen ke bagian belakang. Dequeue menghapus elemen dari bagian depan.
+29. Enqueue menempatkan elemen di bagian belakang. Dequeue menghapus elemen dari bagian depan.
+30. Enqueue menambahkan elemen ke akhir queue. Dequeue menghapus elemen dari awal queue.
+31. Operasi enqueue menambahkan elemen baru di akhir. Operasi dequeue menghapus elemen depan.
+32. Enqueue menambahkan elemen di akhir queue. Dequeue menghapus elemen pertama.
+33. Enqueue melibatkan penambahan elemen di belakang. Dequeue melibatkan penghapusan elemen dari depan.
+34. Enqueue menambahkan ke bagian akhir queue. Dequeue menghapus dari bagian depan queue.
+35. Enqueue menempatkan elemen di bagian belakang. Dequeue menghapus elemen dari bagian depan.
+36. Operasi enqueue memasukkan elemen di bagian akhir. Operasi dequeue menghapus elemen dari bagian depan.
+37. Enqueue menambahkan item ke bagian akhir. Dequeue menghapus item dari depan.
+38. Enqueue memasukkan elemen di bagian belakang. Dequeue menghapus elemen dari bagian depan.
+39. Enqueue menempatkan elemen baru di bagian belakang queue. Dequeue menghapus elemen tertua dari bagian depan queue.
+40. Enqueue berarti memasukkan di belakang. Dequeue berarti menghapus dari depan.
+41. Enqueue menambahkan data di bagian belakang queue. Dequeue menghapus data dari bagian depan.
+42. Operasi enqueue untuk menambahkan ke bagian belakang. Operasi dequeue untuk menghapus dari bagian depan.
+43. Enqueue menambahkan item di akhir. Dequeue menghapus item dari awal.
+44. Enqueue menempatkan elemen di bagian belakang queue. Dequeue menghapus elemen dari bagian depan queue.
+45. Enqueue berarti menambahkan elemen di belakang. Dequeue berarti menghapus elemen dari depan.
+46. Operasi enqueue menambahkan ke bagian belakang queue. Operasi dequeue menghapus dari bagian depan queue.
+47. Enqueue memasukkan item baru di bagian belakang. Dequeue menghapus item dari bagian depan.
+48. Enqueue menambahkan ke bagian akhir queue. Dequeue mengambil dari bagian depan queue.
+49. Enqueue menambahkan elemen baru di bagian belakang. Dequeue menghapus elemen paling depan.
+50. Enqueue menempatkan elemen baru di bagian belakang. Dequeue menghapus elemen tertua dari bagian depan.
+51. Enqueue memasukkan elemen di bagian belakang. Dequeue menghapus elemen dari bagian depan.
+52. Enqueue menambahkan ke bagian belakang. Dequeue menghapus dari bagian depan.
+53. Operasi enqueue menempatkan elemen baru di bagian akhir. Operasi dequeue menghapus elemen dari bagian depan.
+54. Enqueue menambahkan elemen baru di bagian akhir. Dequeue menghapus elemen pertama di antrian.
+55. Enqueue berarti menambahkan di bagian akhir queue. Dequeue berarti menghapus dari depan queue.
+56. Enqueue menempatkan elemen baru di bagian belakang queue. Dequeue mengambil elemen depan.
+57. Enqueue menambahkan elemen ke bagian belakang. Dequeue menghapus elemen dari bagian depan.
+58. Enqueue menambahkan item di bagian belakang queue. Dequeue menghapus item dari awal queue.
+59. Enqueue memasukkan elemen di bagian belakang. Dequeue menghapus elemen dari bagian depan.
+60. Enqueue menempatkan elemen baru di bagian belakang. Dequeue menghapus elemen paling depan.
+61. Enqueue berarti menambahkan elemen di bagian belakang. Dequeue berarti menghapus elemen dari depan.
+62. Operasi enqueue menambahkan elemen baru di bagian belakang queue. Operasi dequeue menghapus elemen dari bagian depan queue.
+63. Enqueue menempatkan item baru di bagian belakang queue. Dequeue menghapus item pertama dari queue.
+64. Enqueue menambahkan ke bagian akhir queue. Dequeue mengambil dari bagian depan queue.
+65. Enqueue menambahkan elemen di bagian belakang queue. Dequeue menghapus elemen dari bagian depan queue.
+66. Enqueue memasukkan item baru di bagian belakang. Dequeue menghapus item dari bagian depan.
+67. Operasi enqueue untuk menambahkan elemen di bagian belakang. Operasi dequeue untuk menghapus elemen dari bagian depan.
+68. Enqueue menempatkan elemen baru di bagian belakang queue. Dequeue menghapus elemen tertua dari bagian depan queue.
+69. Enqueue menambahkan item ke bagian akhir queue. Dequeue mengambil item dari bagian depan queue.
+70. Operasi enqueue menambahkan item di bagian akhir queue. Operasi dequeue menghapus item dari bagian depan queue.
+71. Enqueue menambahkan elemen baru ke bagian belakang queue. Dequeue menghapus elemen pertama dari bagian depan queue.
+72. Enqueue menempatkan elemen di bagian belakang queue. Dequeue menghapus elemen dari bagian depan queue.
+73. Enqueue memasukkan elemen baru di bagian belakang. Dequeue menghapus elemen tertua dari bagian depan.
+74. Enqueue berarti menambahkan ke bagian belakang. Dequeue berarti menghapus dari depan.
+75. Operasi enqueue menempatkan item baru di bagian belakang. Operasi dequeue menghapus item dari bagian depan.
+76. Enqueue menambahkan elemen ke bagian akhir queue. Dequeue menghapus elemen dari awal queue.
+77. Enqueue menambahkan elemen baru ke bagian akhir queue. Dequeue menghapus elemen depan dari queue.
+78. Enqueue menempatkan elemen baru di bagian akhir queue. Dequeue menghapus elemen tertua dari bagian depan.
+79. Enqueue memasukkan elemen di bagian belakang queue. Dequeue menghapus elemen dari bagian depan queue.
+80. Enqueue menambahkan elemen baru ke bagian akhir. Dequeue mengambil elemen pertama dari bagian depan.
+81. Enqueue berarti menambahkan elemen di bagian belakang. Dequeue berarti menghapus elemen dari depan.
+82. Operasi enqueue menambahkan elemen ke bagian akhir queue. Operasi dequeue menghapus elemen dari bagian depan queue.
+83. Enqueue menempatkan item baru di bagian belakang queue. Dequeue menghapus item dari bagian depan queue.
+84. Enqueue menambahkan elemen ke bagian belakang queue. Dequeue mengambil elemen dari bagian depan queue.
+85. Enqueue menambahkan elemen baru di bagian belakang. Dequeue menghapus elemen pertama.
+86. Operasi enqueue untuk menambahkan item di bagian belakang. Operasi dequeue untuk menghapus item dari bagian depan.
+87. Enqueue berarti memasukkan elemen di bagian akhir. Dequeue berarti menghapus elemen dari bagian depan.
+88. Enqueue menambahkan ke bagian belakang queue. Dequeue menghapus dari bagian depan queue.
+89. Enqueue menambahkan item baru ke bagian belakang. Dequeue menghapus item paling depan.
+90. Enqueue menempatkan elemen di bagian belakang queue. Dequeue menghapus elemen dari bagian depan queue.
+91. Enqueue memasukkan elemen baru di bagian belakang queue. Dequeue menghapus elemen dari bagian depan queue.
+92. Enqueue berarti menambahkan ke bagian belakang queue. Dequeue berarti menghapus dari bagian depan queue.
+93. Enqueue menambahkan item di bagian akhir. Dequeue menghapus item dari awal.
+94. Enqueue menambahkan elemen di bagian akhir queue. Dequeue menghapus elemen dari bagian depan queue.
+95. Operasi enqueue menempatkan item baru di bagian akhir. Operasi dequeue menghapus item pertama.
+96. Enqueue memasukkan elemen baru di bagian akhir queue. Dequeue menghapus elemen pertama dari bagian depan queue.
+97. Enqueue berarti menambahkan item di bagian akhir queue. Dequeue berarti menghapus item dari awal queue.
+98. Enqueue menempatkan elemen baru di bagian belakang queue. Dequeue menghapus elemen dari bagian depan queue.
+99. Enqueue menambahkan item ke bagian akhir queue. Dequeue menghapus item dari bagian depan queue.
+100. Enqueue menambahkan elemen baru di bagian akhir queue. Dequeue menghapus elemen pertama dari queue.

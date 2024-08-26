@@ -1,0 +1,100 @@
+1. Merge sort adalah algoritma sorting berbasis perbandingan yang menggunakan pendekatan divide-and-conquer.
+2. Merge sort membagi daftar yang belum terurut menjadi n sub-daftar, masing-masing berisi satu elemen, kemudian menggabungkan sub-daftar tersebut secara berulang untuk menghasilkan sub-daftar terurut baru hingga hanya tersisa satu sub-daftar.
+3. Merge sort memiliki kompleksitas waktu stabil O(n log n).
+4. Merge sort bersifat stabil dan tidak mengubah urutan relatif dari elemen dengan kunci yang sama.
+5. Merge sort cocok untuk dataset besar karena kompleksitas waktunya yang dapat diprediksi O(n log n).
+6. Merge sort membutuhkan ruang memori tambahan yang sebanding dengan ukuran daftar input, sehingga kurang efisien untuk dataset kecil.
+7. Merge sort ditemukan oleh John von Neumann pada tahun 1945.
+8. Pendekatan divide-and-conquer pada merge sort membuatnya mudah diparalelisasi.
+9. Merge sort sering digunakan untuk mengurutkan linked lists dalam waktu O(n log n).
+10. Merge sort bekerja dengan cara membagi daftar menjadi sub-daftar yang lebih kecil, mengurutkan sub-daftar tersebut, lalu menggabungkannya kembali.
+11. Merge sort dapat diimplementasikan baik secara rekursif maupun iteratif.
+12. Keuntungan utama merge sort adalah kompleksitas waktu yang dapat diprediksi dan stabil.
+13. Merge sort bekerja dengan baik pada daftar besar dan dataset yang tidak dapat dimuat dalam memori.
+14. Merge sort bukan algoritma sorting in-place; ia membutuhkan ruang tambahan untuk array sementara yang digunakan dalam penggabungan.
+15. Kinerja merge sort konsisten terlepas dari urutan awal elemen.
+16. Merge sort sering digunakan dalam algoritma sorting eksternal, di mana data terlalu besar untuk dimuat ke dalam memori.
+17. Operasi merge dalam merge sort menggabungkan dua daftar yang sudah terurut menjadi satu daftar yang terurut.
+18. Merge sort dapat digunakan untuk mengurutkan data dalam berbagai aplikasi, termasuk sistem manajemen basis data.
+19. Merge sort membagi daftar menjadi dua bagian hingga mencapai elemen tunggal dan kemudian menggabungkannya kembali dalam urutan terurut.
+20. Kinerja yang dapat diprediksi dari merge sort menjadikannya pilihan yang baik untuk banyak tugas sorting.
+21. Merge sort adalah algoritma sorting berbasis perbandingan yang menjamin kinerja O(n log n).
+22. Merge sort membagi daftar menjadi dua bagian, mengurutkan setiap bagian, dan menggabungkannya kembali.
+23. Merge sort membutuhkan ruang tambahan O(n) untuk menampung output yang digabungkan selama sorting.
+24. Merge sort stabil karena mempertahankan urutan relatif dari elemen dengan kunci yang sama.
+25. Merge sort dapat diadaptasi untuk pemrosesan paralel, sehingga cocok untuk sistem multi-core.
+26. Merge sort efisien untuk dataset besar yang tidak muat dalam memori dan memerlukan sorting eksternal.
+27. Merge sort digunakan dalam pustaka standar banyak bahasa pemrograman karena kinerjanya yang andal.
+28. Merge sort lebih disukai ketika stabilitas merupakan persyaratan penting untuk algoritma sorting.
+29. Merge sort bekerja dengan baik pada linked lists karena tidak memerlukan akses acak ke elemen.
+30. Sifat rekursif dari merge sort membuatnya mudah diimplementasikan dengan algoritma yang jelas dan sederhana.
+31. Versi iteratif dari merge sort menggunakan pendekatan bottom-up untuk menggabungkan sub-daftar yang sudah terurut secara iteratif.
+32. Merge sort kurang efisien untuk dataset kecil dibandingkan dengan algoritma seperti insertion sort.
+33. Merge sort dapat menangani dataset besar yang perlu diurutkan dalam penyimpanan eksternal, seperti hard drives.
+34. Strategi divide-and-conquer dari merge sort membagi masalah menjadi sub-masalah yang lebih kecil, membuatnya lebih mudah dikelola.
+35. Merge sort dapat dioptimalkan dengan teknik seperti natural merge sort, yang memanfaatkan urutan yang sudah ada dalam data.
+36. Merge sort sering digunakan dalam skenario di mana kinerja yang konsisten dan dapat diprediksi diperlukan.
+37. Kebutuhan memori tambahan pada merge sort bisa menjadi kelemahan dalam lingkungan yang terbatas memori.
+38. Merge sort sering diajarkan dalam pendidikan ilmu komputer untuk mengajarkan konsep algoritma divide-and-conquer.
+39. Merge sort efektif untuk mengurutkan dataset dengan tipe data kompleks, karena hanya bergantung pada perbandingan.
+40. Merge sort adalah algoritma dasar dalam studi ilmu komputer dan algoritma.
+41. Kompleksitas waktu terburuk dari merge sort adalah O(n log n), menjadikannya lebih dapat diprediksi dibandingkan algoritma dengan kompleksitas kuadrat.
+42. Kebutuhan ruang tambahan pada merge sort adalah O(n), yang bisa signifikan untuk dataset yang sangat besar.
+43. Merge sort bukan algoritma sorting adaptif, artinya tidak memanfaatkan urutan yang sudah ada dalam input.
+44. Kinerja yang konsisten dari merge sort menjadikannya cocok untuk sistem real-time dan embedded.
+45. Merge sort dapat dikombinasikan dengan algoritma lain, seperti insertion sort, untuk pendekatan sorting hibrida.
+46. Merge sort digunakan dalam implementasi berbagai fungsi sorting dalam pustaka standar.
+47. Merge sort sangat cocok untuk eksekusi paralel karena sifat divide-and-conquer-nya.
+48. Merge sort menjamin sorting yang stabil, menjadikannya pilihan yang baik untuk mengurutkan catatan dengan beberapa field.
+49. Perilaku yang dapat diprediksi dari merge sort menguntungkan dalam aplikasi di mana kinerja terburuk adalah perhatian utama.
+50. Merge sort dapat diimplementasikan dengan kode minimal, sehingga mudah dipahami dan dipelihara.
+51. Langkah merge dalam merge sort sederhana dan melibatkan penggabungan dua daftar yang sudah terurut menjadi satu.
+52. Pendekatan rekursif dari merge sort sangat cocok untuk masalah yang dapat dibagi menjadi sub-masalah yang lebih kecil dan serupa.
+53. Kompleksitas waktu O(n log n) dari merge sort memastikan penanganan dataset besar yang efisien.
+54. Merge sort efektif untuk sorting data yang terlalu besar untuk dimuat ke dalam memori dan harus diurutkan secara eksternal.
+55. Stabilitas merge sort sangat penting dalam aplikasi di mana urutan relatif dari elemen yang sama harus dipertahankan.
+56. Kebutuhan memori tambahan pada merge sort dapat dikurangi dengan teknik in-place merge.
+57. Merge sort sering digunakan sebagai tolok ukur untuk membandingkan kinerja algoritma sorting lainnya.
+58. Pendekatan divide-and-conquer pada merge sort dapat divisualisasikan dengan diagram pohon rekursif.
+59. Implementasi merge sort dapat diadaptasi untuk berbagai bahasa pemrograman dan lingkungan.
+60. Merge sort adalah algoritma kunci dalam studi sorting dan searching dalam ilmu komputer.
+61. Kinerja yang dapat diprediksi dari merge sort menjadikannya pilihan yang andal untuk aplikasi penting.
+62. Merge sort dapat menangani berbagai tipe data, termasuk string, integer, dan objek kustom.
+63. Ruang tambahan pada merge sort dapat dikurangi dengan teknik in-place merge, meskipun menjadi lebih kompleks.
+64. Merge sort digunakan dalam aplikasi yang memerlukan perilaku sorting yang konsisten dan stabil.
+65. Panggilan rekursif pada merge sort dapat dioptimalkan dengan tail recursion di beberapa bahasa pemrograman.
+66. Versi iteratif dari merge sort menghilangkan kebutuhan untuk call stack besar, mengurangi overhead memori.
+67. Stabilitas merge sort menjadikannya cocok untuk mengurutkan catatan multi-field, mempertahankan urutan elemen yang sama.
+68. Merge sort adalah algoritma dasar yang sering diperkenalkan dalam kursus pengantar ilmu komputer.
+69. Kompleksitas waktu yang dapat diprediksi dari merge sort menjadikannya pilihan yang baik untuk aplikasi yang kritis terhadap kinerja.
+70. Strategi divide-and-conquer dari merge sort menyederhanakan masalah sorting dataset besar.
+71. Langkah merge pada merge sort adalah kunci dari stabilitas dan efisiensinya, memastikan sub-daftar yang sudah terurut digabungkan dengan benar.
+72. Merge sort efektif untuk sorting eksternal, di mana data terlalu besar untuk dimuat ke dalam memori utama.
+73. Kebutuhan memori tambahan pada merge sort adalah trade-off untuk kinerja yang stabil dan dapat diprediksi.
+74. Merge sort digunakan dalam banyak aplikasi dunia nyata, termasuk manajemen basis data dan pemrosesan data.
+75. Kompleksitas waktu O(n log n) dari merge sort menjadikannya cocok untuk tugas sorting skala besar.
+76. Stabilitas merge sort memastikan bahwa elemen yang sama mempertahankan urutan relatif mereka setelah sorting.
+77. Sifat rekursif merge sort menyediakan pendekatan yang jelas dan logis untuk masalah sorting.
+78. Merge sort sering digunakan sebagai alat pengajaran untuk memperkenalkan algoritma rekursif dan teknik divide-and-conquer.
+79. Kinerja yang konsisten dari merge sort menjadikannya pilihan yang andal untuk berbagai aplikasi.
+80. Merge sort dapat diparalelisasi untuk memanfaatkan prosesor multi-core, meningkatkan kinerjanya.
+81. Kebutuhan memori tambahan pada merge sort bisa menjadi keterbatasan dalam lingkungan dengan memori yang terbatas.
+82. Perilaku yang dapat diprediksi dari merge sort menguntungkan dalam aplikasi di mana konsistensi kinerja sangat penting.
+83. Kebutuhan ruang tambahan pada merge sort adalah pertimbangan saat bekerja dengan dataset yang sangat besar.
+84. Pendekatan divide-and-conquer pada merge sort adalah strategi yang kuat untuk memecahkan masalah yang kompleks.
+85. Merge sort digunakan dalam aplikasi yang memerlukan stabilitas sorting, seperti pemrosesan data yang sensitif terhadap urutan.
+86. Kompleksitas waktu dari merge sort memastikan penanganan data yang efisien di berbagai ukuran.
+87. Struktur rekursif merge sort dapat dioptimalkan dengan berbagai teknik untuk meningkatkan kinerja.
+88. Langkah merge pada merge sort sederhana, membuatnya mudah diimplementasikan dan dipahami.
+89. Merge sort adalah algoritma yang kuat yang berkinerja baik dalam berbagai kondisi.
+90. Kompleksitas waktu yang konsisten dari merge sort menjadikannya cocok untuk aplikasi real-time.
+91. Merge sort dapat diadaptasi untuk menangani berbagai struktur data, termasuk arrays dan linked lists.
+92. Kinerja yang dapat diprediksi dari merge sort menjadikannya pilihan yang baik untuk sorting dataset besar.
+93. Merge sort sering digunakan dalam skenario di mana stabilitas dan kinerja yang dapat diprediksi diperlukan.
+94. Pendekatan divide-and-conquer dari merge sort menyederhanakan proses sorting, membuatnya lebih mudah dikelola.
+95. Kebutuhan ruang tambahan pada merge sort dapat dikelola dengan teknik alokasi memori yang efisien.
+96. Merge sort adalah algoritma dasar yang banyak dipelajari dan diimplementasikan dalam ilmu komputer.
+97. Stabilitas merge sort memastikan bahwa elemen yang sama tetap dalam urutan aslinya setelah sorting.
+98. Kompleksitas waktu O(n log n) dari merge sort menjamin kinerja yang efisien untuk dataset besar.
+99. Pendekatan rekursif merge sort menyediakan metode yang jelas dan logis untuk sorting data.
+100. Kinerja yang dapat diprediksi dari merge sort menjadikannya pilihan yang andal untuk tugas sorting yang penting.

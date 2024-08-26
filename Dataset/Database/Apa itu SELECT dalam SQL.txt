@@ -1,0 +1,100 @@
+SELECT adalah perintah SQL yang digunakan untuk mengambil data dari sebuah database.
+Pernyataan SELECT digunakan untuk melakukan kueri pada database dan mengambil data yang sesuai dengan kriteria yang ditentukan.
+SELECT memungkinkan Anda untuk menentukan kolom-kolom yang ingin diambil dari sebuah tabel.
+SELECT * mengambil semua kolom dari tabel yang ditentukan.
+Pernyataan SELECT dapat menyertakan kondisi untuk menyaring data menggunakan klausa WHERE.
+SELECT dapat mengambil data dari satu atau lebih tabel menggunakan JOIN.
+Anda dapat menggunakan SELECT untuk melakukan perhitungan dan mengembalikan hasil yang dihitung.
+SELECT DISTINCT digunakan untuk mengambil nilai-nilai unik, menghilangkan duplikasi dari hasil.
+Klausa ORDER BY dalam SELECT digunakan untuk mengurutkan data yang diambil dalam urutan naik atau turun.
+Klausa LIMIT dalam SELECT membatasi jumlah baris yang dikembalikan oleh kueri.
+SELECT memungkinkan penggunaan fungsi agregat seperti COUNT, SUM, AVG, MAX, dan MIN untuk melakukan perhitungan pada data.
+Klausa GROUP BY dalam SELECT digunakan untuk mengelompokkan baris yang memiliki nilai yang sama dalam kolom tertentu menjadi baris ringkasan.
+Klausa HAVING dalam SELECT digunakan untuk menyaring kelompok berdasarkan kondisi, mirip dengan klausa WHERE tetapi untuk kelompok.
+SELECT dapat digunakan dengan subkueri untuk mengambil data berdasarkan hasil dari kueri lain.
+Anda dapat menggunakan kata kunci AS dalam SELECT untuk mengganti nama kolom atau membuat alias.
+SELECT memungkinkan penggunaan logika kondisional dengan pernyataan CASE.
+Anda dapat menggabungkan beberapa kueri SELECT menggunakan UNION atau UNION ALL untuk mengembalikan satu set hasil.
+SELECT mendukung penggunaan pencocokan pola dengan operator LIKE.
+SELECT dapat mengambil data dari views, yang merupakan tabel virtual berdasarkan hasil dari kueri SELECT.
+Pernyataan SELECT INTO digunakan untuk membuat tabel baru dan memasukkan hasil ke dalamnya.
+Anda dapat menggunakan SELECT dengan JOIN untuk menggabungkan baris dari dua atau lebih tabel berdasarkan kolom yang terkait.
+SELECT mendukung penggunaan fungsi jendela untuk melakukan perhitungan pada satu set baris tabel yang terkait dengan baris saat ini.
+SELECT dapat digunakan untuk mengambil data dalam format XML atau JSON.
+Pernyataan SELECT adalah perintah SQL yang paling umum digunakan untuk pengambilan data.
+SELECT dapat mengambil data dari prosedur tersimpan dan fungsi dalam beberapa sistem database.
+Anda dapat menggunakan klausa TOP dalam SELECT untuk mengembalikan N baris teratas dari set hasil.
+SELECT memungkinkan penggunaan wildcard dengan operator LIKE untuk menyaring data berdasarkan pola.
+Pernyataan SELECT dapat menyertakan ekspresi kolom, yang merupakan kombinasi dari nama kolom, konstanta, dan fungsi.
+SELECT dapat mengambil data dari sinonim database, yang merupakan alias untuk objek database.
+Anda dapat menggunakan SELECT untuk mengambil data dengan agregasi kondisional menggunakan klausa FILTER.
+SELECT mendukung penggunaan tabel sementara untuk menyimpan hasil sementara.
+Pernyataan SELECT dapat mengambil data dari views yang diindeks untuk meningkatkan kinerja.
+SELECT dapat digunakan dengan operator set seperti INTERSECT dan EXCEPT untuk menggabungkan set hasil.
+Pernyataan SELECT dapat menyertakan CTE (Common Table Expression) untuk menyederhanakan kueri yang kompleks.
+SELECT memungkinkan pengambilan data hirarkis menggunakan CTE rekursif.
+Anda dapat menggunakan SELECT untuk mengambil data dari materialized views, yang merupakan hasil kueri yang disimpan.
+Pernyataan SELECT dapat menyertakan komentar untuk meningkatkan keterbacaan kueri.
+SELECT mendukung penggunaan kolasi untuk menentukan urutan sortasi data tekstual.
+Anda dapat menggunakan klausa FETCH dalam SELECT untuk mengontrol jumlah baris yang dikembalikan oleh kueri.
+SELECT memungkinkan pengambilan data dengan fungsi waktu dan tanggal.
+Pernyataan SELECT dapat digunakan untuk melakukan pivot data dengan klausa PIVOT.
+SELECT dapat mengambil data dari database links untuk mengakses database jarak jauh.
+Anda dapat menggunakan SELECT untuk mengambil data dengan penomoran baris menggunakan fungsi ROW_NUMBER.
+SELECT mendukung penggunaan fungsi analitis seperti RANK dan DENSE_RANK.
+Pernyataan SELECT dapat mengambil data dari tabel yang dipartisi.
+SELECT memungkinkan penggunaan fungsi string untuk memanipulasi data tekstual.
+SELECT dapat digunakan untuk mengambil data dengan fungsi spasial dalam database spasial.
+Pernyataan SELECT mendukung penggunaan fungsi enkripsi dan dekripsi.
+SELECT dapat mengambil data dari tabel in-memory untuk kinerja yang lebih cepat.
+Anda dapat menggunakan SELECT untuk mengambil data dengan fungsi yang didefinisikan pengguna.
+SELECT mendukung penggunaan operasi bitwise pada data integer.
+Pernyataan SELECT dapat menyertakan penanganan kesalahan dengan blok TRY...CATCH.
+SELECT memungkinkan pengambilan data dengan fungsi pencarian teks lengkap.
+SELECT dapat mengambil data dari tabel sistem dan catalog views.
+Pernyataan SELECT mendukung penggunaan tipe data lanjut seperti JSON dan XML.
+SELECT memungkinkan pengambilan data dengan ekspresi reguler dalam beberapa sistem database.
+SELECT dapat digunakan untuk mengambil data dengan fungsi geospasial dalam database geografis.
+Pernyataan SELECT dapat menyertakan petunjuk untuk mengoptimalkan kinerja kueri.
+SELECT mendukung penggunaan variabel sesi untuk menyimpan hasil sementara.
+Anda dapat menggunakan SELECT untuk mengambil data dengan kueri rekursif.
+SELECT memungkinkan pengambilan data dengan fungsi statistik.
+Pernyataan SELECT dapat mengambil data dari indeks yang dikelompokkan dan tidak dikelompokkan.
+SELECT mendukung penggunaan SQL dinamis untuk membangun dan mengeksekusi kueri pada waktu berjalan.
+SELECT dapat mengambil data dengan cross join untuk menggabungkan semua baris dari dua atau lebih tabel.
+Pernyataan SELECT memungkinkan penggunaan kueri kondisional dengan fungsi IIF.
+SELECT mendukung pengambilan data dengan kueri hirarkis menggunakan klausa CONNECT BY.
+SELECT dapat mengambil data dari tipe dan objek yang didefinisikan pengguna.
+Pernyataan SELECT dapat menyertakan fungsi yang mengembalikan tabel untuk mengembalikan data tabel.
+SELECT memungkinkan pengambilan data dengan fungsi mata uang dan keuangan.
+SELECT dapat digunakan untuk mengambil data dengan windowing dan framing menggunakan klausa OVER.
+Pernyataan SELECT mendukung penggunaan objek urutan untuk menghasilkan angka unik.
+SELECT memungkinkan pengambilan data dengan fungsi peringkat seperti NTILE.
+SELECT dapat mengambil data dari views yang dipartisi untuk meningkatkan kinerja.
+Pernyataan SELECT mendukung penggunaan urutan kolasi untuk menentukan aturan perbandingan teks.
+SELECT dapat mengambil data dengan konversi dan fungsi zona waktu.
+SELECT memungkinkan penggunaan kata kunci RECURSIVE untuk kueri rekursif dalam beberapa sistem database.
+Pernyataan SELECT dapat menyertakan fungsi agregat dengan GROUPING SETS.
+SELECT dapat mengambil data dengan ekspresi multi-dimensional (MDX) dalam database OLAP.
+SELECT mendukung penggunaan fungsi sistem untuk mengambil metadata dan informasi sistem.
+SELECT dapat mengambil data dengan operasi pivot dan unpivot.
+Pernyataan SELECT memungkinkan penggunaan operator APPLY untuk fungsi yang mengembalikan tabel.
+SELECT dapat mengambil data dengan fungsi masking untuk privasi.
+SELECT mendukung penggunaan fungsi JSON untuk kueri dan manipulasi data JSON.
+SELECT dapat mengambil data dari kolom dengan penyimpanan jarang untuk efisiensi penyimpanan data.
+Pernyataan SELECT dapat menyertakan agregat ber-jendela untuk perhitungan kompleks.
+SELECT memungkinkan penggunaan klausa WITH TIES untuk menyertakan baris tambahan dengan nilai yang cocok.
+SELECT dapat mengambil data dengan operator CROSS APPLY dan OUTER APPLY.
+SELECT mendukung pengambilan data dengan kolom pseudo ROW dan ROWNUM dalam beberapa sistem database.
+Pernyataan SELECT memungkinkan penggunaan perintah kontrol transaksi seperti BEGIN, COMMIT, dan ROLLBACK.
+SELECT dapat mengambil data dengan fungsi analitis LAG dan LEAD.
+SELECT mendukung penggunaan kompresi data untuk meningkatkan efisiensi penyimpanan.
+SELECT dapat mengambil data dari kolom yang dienkripsi untuk keamanan yang lebih baik.
+Pernyataan SELECT memungkinkan penggunaan fungsi CAST dan CONVERT untuk konversi tipe data.
+SELECT dapat mengambil data dengan metode sampling data.
+SELECT mendukung penggunaan klausa FOR XML dan FOR JSON untuk memformat hasil kueri.
+SELECT dapat mengambil data dengan klausa OFFSET dan FETCH NEXT untuk paginasi.
+Pernyataan SELECT memungkinkan penggunaan fungsi agregat khusus dalam beberapa sistem database.
+SELECT mendukung pengambilan data dengan indeks spasial untuk data geografis.
+SELECT dapat mengambil data dengan kata kunci KEEP untuk agregat pertama dan terakhir.
+Pernyataan SELECT adalah bagian fundamental dari SQL yang digunakan untuk mengambil dan memanipulasi data dalam sebuah database.

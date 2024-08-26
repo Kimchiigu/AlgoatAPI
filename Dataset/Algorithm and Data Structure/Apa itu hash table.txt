@@ -1,0 +1,100 @@
+1. Hash table adalah struktur data yang memetakan keys ke values menggunakan hash function.
+2. Hash function mengubah key menjadi sebuah index dalam array.
+3. Hash tables menyediakan operasi insertion, deletion, dan search yang efisien.
+4. Kompleksitas waktu operasi hash table adalah O(1) secara rata-rata.
+5. Hash collisions terjadi ketika beberapa keys memiliki hash yang sama.
+6. Teknik penyelesaian collision termasuk chaining dan open addressing.
+7. Dalam chaining, setiap index dari array mengarah ke linked list dari elemen-elemen.
+8. Dalam open addressing, elemen-elemen disimpan di index berikutnya yang tersedia.
+9. Hash tables digunakan untuk mengimplementasikan associative arrays.
+10. Hash tables digunakan dalam database untuk mengindeks data.
+11. Load factor dari hash table adalah rasio antara jumlah elemen dengan ukuran array.
+12. Rehashing adalah proses mengubah ukuran hash table dan menghitung ulang hash indices.
+13. Hash tables digunakan dalam mekanisme caching.
+14. Hash tables menyediakan akses cepat ke data berdasarkan keys.
+15. Hash function yang baik meminimalkan jumlah collisions.
+16. Hash tables digunakan dalam mengimplementasikan sets.
+17. Hash tables dapat diubah ukurannya secara dinamis untuk menjaga performa.
+18. Hash tables digunakan dalam mengimplementasikan symbol tables di compiler.
+19. Hash tables digunakan dalam algoritma routing.
+20. Performa hash table bergantung pada kualitas hash function.
+21. Hash table memetakan keys ke values menggunakan hashing function.
+22. Hash tables menyediakan penyimpanan pasangan key-value yang efisien.
+23. Kompleksitas waktu untuk inserting, deleting, dan searching dalam hash table adalah O(1) secara rata-rata.
+24. Hash collisions terjadi ketika beberapa keys memiliki hash yang sama.
+25. Teknik penyelesaian collision termasuk chaining dan open addressing.
+26. Dalam chaining, setiap index di hash table mengarah ke linked list dari entri-entri.
+27. Dalam open addressing, collisions diselesaikan dengan menemukan slot kosong berikutnya di dalam hash table.
+28. Hash tables digunakan untuk mengimplementasikan associative arrays dan dictionaries.
+29. Hash function mengubah key menjadi sebuah index dalam hash table.
+30. Load factor adalah rasio antara jumlah elemen dengan ukuran hash table.
+31. Rehashing melibatkan mengubah ukuran hash table dan menghitung ulang hash indices untuk semua elemen.
+32. Hash tables digunakan dalam mekanisme caching untuk menyimpan dan mengambil data dengan cepat.
+33. Hash tables menyediakan akses cepat ke data berdasarkan keys.
+34. Hash function yang baik meminimalkan jumlah collisions.
+35. Hash tables dapat diubah ukurannya secara dinamis untuk menjaga performa.
+36. Hash tables digunakan dalam mengimplementasikan sets.
+37. Hash tables digunakan dalam pengindeksan database untuk mempercepat pengambilan data.
+38. Hash tables digunakan dalam mengimplementasikan symbol tables di compiler.
+39. Hash tables digunakan dalam berbagai algoritma routing.
+40. Performa hash table bergantung pada kualitas hash function.
+41. Hash tables digunakan dalam mengimplementasikan berbagai algoritma dalam computer graphics.
+42. Hash tables dapat menyimpan sejumlah besar data dan menyediakan waktu pencarian yang cepat.
+43. Hash tables digunakan dalam mengimplementasikan berbagai algoritma kompresi data.
+44. Struktur hash table memungkinkan pencarian dan pengambilan data yang efisien.
+45. Hash tables digunakan dalam mengimplementasikan berbagai algoritma enkripsi.
+46. Hash tables menyediakan cara untuk mengelola koleksi pasangan key-value.
+47. Hash tables digunakan dalam mengimplementasikan berbagai algoritma pengambilan data.
+48. Hash tables digunakan dalam mengelola dan menyimpan dataset besar secara efisien.
+49. Struktur hash table digunakan dalam mengimplementasikan berbagai algoritma manipulasi data.
+50. Hash tables menyediakan cara untuk mengelola koleksi data dengan keys yang dinamis.
+51. Hash tables digunakan dalam mengimplementasikan berbagai algoritma transformasi data.
+52. Struktur hash table memungkinkan pencarian dan penyimpanan data yang efisien.
+53. Hash tables digunakan dalam mengimplementasikan berbagai algoritma traversal data.
+54. Hash tables menyediakan cara untuk mengelola koleksi data dengan keys yang unik.
+55. Hash tables digunakan dalam mengimplementasikan berbagai algoritma agregasi data.
+56. Struktur hash table memungkinkan pengindeksan dan pengambilan data yang efisien.
+57. Hash tables digunakan dalam mengimplementasikan berbagai algoritma pemisahan data.
+58. Hash tables menyediakan cara untuk mengelola koleksi data dengan keys yang fleksibel.
+59. Hash tables digunakan dalam mengimplementasikan berbagai algoritma konkatenasi data.
+60. Struktur hash table memungkinkan penyimpanan dan akses data yang efisien.
+61. Hash tables digunakan dalam mengimplementasikan berbagai algoritma iterasi data.
+62. Hash tables menyediakan cara untuk mengelola koleksi data dengan memori dinamis.
+63. Hash tables digunakan dalam mengimplementasikan berbagai algoritma reduksi data.
+64. Struktur hash table memungkinkan penyimpanan dan manipulasi data yang efisien.
+65. Hash tables digunakan dalam mengimplementasikan berbagai algoritma pengurutan data.
+66. Hash tables menyediakan cara untuk mengelola koleksi data dengan pengidentifikasi yang unik.
+67. Hash tables digunakan dalam mengimplementasikan berbagai algoritma penyaringan data.
+68. Struktur hash table memungkinkan mekanisme penyimpanan dan pengambilan data yang efisien.
+69. Hash tables digunakan dalam mengimplementasikan berbagai teknik kompresi data.
+70. Hash tables menyediakan cara untuk mengelola koleksi data dengan memori yang fleksibel.
+71. Hash tables digunakan dalam mengimplementasikan berbagai algoritma pemetaan data.
+72. Struktur hash table memungkinkan teknik penyimpanan dan manipulasi data yang efisien.
+73. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme pengambilan data.
+74. Hash tables menyediakan cara untuk mengelola koleksi data dengan penggunaan memori yang efisien.
+75. Hash tables digunakan dalam mengimplementasikan berbagai teknik iterasi data.
+76. Struktur hash table memungkinkan mekanisme penyimpanan dan traversal data yang efisien.
+77. Hash tables digunakan dalam mengimplementasikan berbagai teknik reduksi data.
+78. Hash tables menyediakan cara untuk mengelola koleksi data dengan keys dan values yang unik.
+79. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme penyimpanan data.
+80. Struktur hash table memungkinkan pengambilan dan manipulasi data yang efisien.
+81. Hash tables digunakan dalam mengimplementasikan berbagai teknik pengambilan data.
+82. Hash tables menyediakan cara untuk mengelola koleksi data dengan pengindeksan yang efisien.
+83. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme iterasi data.
+84. Struktur hash table memungkinkan teknik penyimpanan dan akses data yang efisien.
+85. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme kompresi data.
+86. Hash tables menyediakan cara untuk mengelola koleksi data dengan pengindeksan yang dinamis.
+87. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme pemetaan data.
+88. Struktur hash table memungkinkan teknik penyimpanan dan pengambilan data yang efisien.
+89. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme pengambilan dan penyimpanan data.
+90. Hash tables menyediakan cara untuk mengelola koleksi data dengan pengidentifikasi dan values yang unik.
+91. Hash tables digunakan dalam mengimplementasikan berbagai teknik iterasi dan penyimpanan data.
+92. Struktur hash table memungkinkan mekanisme pengindeksan dan akses data yang efisien.
+93. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme kompresi dan pengambilan data.
+94. Hash tables menyediakan cara untuk mengelola koleksi data dengan pengindeksan yang fleksibel.
+95. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme pemetaan dan penyimpanan data.
+96. Struktur hash table memungkinkan teknik pengambilan dan penyimpanan data yang efisien.
+97. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme penyimpanan dan pengambilan data.
+98. Hash tables menyediakan cara untuk mengelola koleksi data dengan keys yang unik dan akses yang efisien.
+99. Hash tables digunakan dalam mengimplementasikan berbagai mekanisme iterasi dan pengambilan data.
+100. Hash tables menyediakan kerangka kerja yang kuat untuk pengelolaan dan pengambilan dataset besar.

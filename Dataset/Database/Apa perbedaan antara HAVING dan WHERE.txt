@@ -1,0 +1,100 @@
+Klausa WHERE memfilter baris sebelum ada pengelompokan yang dilakukan, sementara klausa HAVING memfilter grup setelah GROUP BY.
+WHERE digunakan untuk memfilter baris sebelum agregasi, sedangkan HAVING digunakan untuk memfilter setelah agregasi.
+WHERE memfilter data sebelum dikelompokkan, tetapi HAVING memfilter data setelah grup dibuat.
+Klausa WHERE berlaku untuk baris individu, sedangkan klausa HAVING berlaku untuk grup yang dibuat oleh GROUP BY.
+WHERE digunakan untuk memfilter baris yang tidak memenuhi kondisi, sementara HAVING digunakan untuk memfilter grup baris setelah agregasi.
+Klausa WHERE tidak dapat digunakan dengan fungsi agregat, tetapi HAVING bisa.
+WHERE memfilter baris sebelum ada pengelompokan terjadi; HAVING memfilter setelah pengelompokan.
+WHERE menerapkan kondisi pada baris, sedangkan HAVING menerapkan kondisi pada grup baris.
+Anda menggunakan WHERE untuk memfilter baris sebelum agregasi dan HAVING untuk memfilter hasil agregasi.
+Klausa WHERE memfilter baris data; klausa HAVING memfilter grup yang teragregasi.
+Klausa WHERE digunakan sebelum GROUP BY, tetapi HAVING digunakan setelah GROUP BY.
+WHERE tidak dapat memfilter pada data agregat, tetapi HAVING bisa.
+WHERE memfilter baris individu, sedangkan HAVING memfilter grup baris.
+Klausa WHERE membatasi baris yang dikembalikan, dan klausa HAVING membatasi grup yang dikembalikan.
+Anda menggunakan WHERE untuk kondisi baris dan HAVING untuk kondisi pada data yang teragregasi.
+WHERE digunakan untuk memfilter catatan sebelum pengelompokan; HAVING digunakan untuk memfilter setelah pengelompokan.
+Klausa WHERE adalah untuk memfilter catatan, sementara HAVING adalah untuk memfilter hasil yang teragregasi.
+WHERE berlaku untuk baris, dan HAVING berlaku untuk hasil GROUP BY.
+WHERE memfilter baris; HAVING memfilter grup.
+Klausa WHERE digunakan untuk pemfilteran tingkat baris, HAVING digunakan untuk pemfilteran tingkat grup.
+WHERE dapat digunakan tanpa GROUP BY, HAVING harus digunakan dengan GROUP BY.
+Klausa WHERE memfilter data sebelum agregasi; HAVING memfilter setelahnya.
+Anda menggunakan WHERE untuk memfilter baris dan HAVING untuk memfilter data yang dikelompokkan.
+WHERE digunakan sebelum data dikelompokkan; HAVING digunakan setelah data dikelompokkan.
+Klausa WHERE tidak dapat memfilter data agregat, tetapi HAVING bisa.
+WHERE memfilter baris; HAVING memfilter grup yang dibuat oleh GROUP BY.
+WHERE berlaku untuk data mentah, sementara HAVING berlaku untuk data yang teragregasi.
+Klausa WHERE digunakan untuk memfilter baris individu, sementara HAVING digunakan untuk memfilter baris yang dikelompokkan.
+WHERE adalah untuk pemfilteran sebelum pengelompokan; HAVING adalah untuk pemfilteran setelah pengelompokan.
+WHERE digunakan untuk memfilter catatan sebelum pengelompokan; HAVING digunakan setelah pengelompokan.
+WHERE tidak dapat menggunakan fungsi agregat; HAVING bisa.
+Klausa WHERE memfilter baris individu, sedangkan HAVING memfilter hasil yang teragregasi.
+Klausa WHERE membatasi baris; HAVING membatasi grup setelah agregasi.
+WHERE digunakan untuk memfilter baris sebelum GROUP BY, sementara HAVING digunakan setelah GROUP BY.
+WHERE memfilter data sebelum agregasi; HAVING memfilter data setelah agregasi.
+WHERE digunakan untuk memfilter baris, HAVING untuk memfilter grup.
+Klausa WHERE adalah untuk memfilter catatan sebelum pengelompokan; HAVING adalah untuk memfilter setelah pengelompokan.
+WHERE memfilter baris sebelum ada pengelompokan; HAVING memfilter setelah pengelompokan.
+WHERE berlaku untuk baris dan tidak dapat menggunakan fungsi agregat; HAVING berlaku untuk grup dan dapat menggunakan fungsi agregat.
+WHERE memfilter data sebelum dikelompokkan; HAVING memfilter grup setelah agregasi.
+Klausa WHERE digunakan untuk memfilter baris individu, sementara HAVING digunakan untuk memfilter grup baris.
+WHERE digunakan untuk memfilter baris sebelum klausa GROUP BY; HAVING digunakan setelah GROUP BY.
+WHERE tidak dapat memfilter data agregat; HAVING bisa.
+WHERE memfilter baris sebelum pengelompokan, HAVING memfilter setelahnya.
+Klausa WHERE memfilter baris, dan klausa HAVING memfilter grup.
+WHERE menerapkan kondisi pada baris; HAVING menerapkan kondisi pada grup.
+Anda menggunakan WHERE untuk memfilter catatan individu; HAVING untuk memfilter hasil agregasi.
+WHERE adalah untuk memfilter data sebelum agregasi; HAVING untuk setelahnya.
+WHERE memfilter baris, dan HAVING memfilter hasil dari GROUP BY.
+Klausa WHERE digunakan sebelum GROUP BY; HAVING digunakan setelahnya.
+WHERE tidak dapat memfilter agregat, tetapi HAVING bisa.
+WHERE berlaku untuk baris; HAVING berlaku untuk grup.
+Anda menggunakan WHERE untuk kondisi baris, HAVING untuk kondisi grup.
+WHERE digunakan untuk memfilter baris sebelum pengelompokan; HAVING digunakan setelahnya.
+Klausa WHERE memfilter catatan; HAVING memfilter hasil yang teragregasi.
+WHERE berlaku untuk data mentah; HAVING berlaku untuk data yang dikelompokkan.
+WHERE memfilter baris; HAVING memfilter grup yang dibuat oleh GROUP BY.
+Klausa WHERE adalah untuk pemfilteran tingkat baris; HAVING adalah untuk pemfilteran tingkat grup.
+WHERE dapat digunakan sendiri; HAVING harus mengikuti GROUP BY.
+WHERE memfilter data sebelum pengelompokan; HAVING memfilter setelahnya.
+Anda menggunakan WHERE untuk memfilter baris dan HAVING untuk memfilter grup.
+WHERE digunakan sebelum data dikelompokkan; HAVING digunakan setelahnya.
+Klausa WHERE tidak dapat memfilter agregat, tetapi HAVING bisa.
+WHERE memfilter baris individu; HAVING memfilter grup.
+WHERE berlaku untuk data mentah, sementara HAVING berlaku untuk data yang teragregasi.
+Klausa WHERE digunakan untuk memfilter baris, sementara HAVING digunakan untuk memfilter baris yang dikelompokkan.
+WHERE adalah untuk pemfilteran sebelum pengelompokan; HAVING adalah untuk pemfilteran setelah pengelompokan.
+WHERE digunakan untuk memfilter catatan sebelum pengelompokan; HAVING digunakan setelah pengelompokan.
+WHERE tidak dapat menggunakan fungsi agregat; HAVING bisa.
+Klausa WHERE memfilter baris individu, sedangkan HAVING memfilter hasil yang teragregasi.
+Klausa WHERE membatasi baris; HAVING membatasi grup setelah agregasi.
+WHERE digunakan sebelum GROUP BY; HAVING digunakan setelah GROUP BY.
+WHERE memfilter data sebelum agregasi; HAVING memfilter data setelah agregasi.
+WHERE digunakan untuk memfilter baris; HAVING digunakan untuk memfilter grup.
+Klausa WHERE adalah untuk memfilter catatan sebelum pengelompokan; HAVING adalah untuk memfilter setelah pengelompokan.
+WHERE memfilter baris sebelum ada pengelompokan; HAVING memfilter setelah pengelompokan.
+WHERE berlaku untuk baris dan tidak dapat menggunakan agregat; HAVING berlaku untuk grup dan dapat.
+WHERE memfilter data sebelum dikelompokkan; HAVING memfilter grup setelah agregasi.
+Klausa WHERE memfilter baris individu, sementara HAVING memfilter grup baris.
+WHERE digunakan untuk memfilter baris sebelum klausa GROUP BY; HAVING digunakan setelah GROUP BY.
+WHERE tidak dapat memfilter data agregat; HAVING bisa.
+WHERE memfilter baris sebelum pengelompokan, HAVING memfilter setelahnya.
+Klausa WHERE memfilter baris, dan klausa HAVING memfilter grup.
+WHERE menerapkan kondisi pada baris; HAVING menerapkan kondisi pada grup.
+Anda menggunakan WHERE untuk memfilter catatan individu; HAVING untuk memfilter hasil agregasi.
+WHERE adalah untuk memfilter data sebelum agregasi; HAVING untuk setelahnya.
+WHERE memfilter baris, dan HAVING memfilter hasil dari GROUP BY.
+Klausa WHERE digunakan sebelum GROUP BY; HAVING digunakan setelahnya.
+WHERE tidak dapat memfilter agregat, tetapi HAVING bisa.
+WHERE berlaku untuk baris; HAVING berlaku untuk grup.
+Anda menggunakan WHERE untuk kondisi baris, HAVING untuk kondisi grup.
+WHERE digunakan untuk memfilter baris sebelum pengelompokan; HAVING digunakan setelahnya.
+Klausa WHERE memfilter catatan; HAVING memfilter hasil yang teragregasi.
+WHERE berlaku untuk data mentah; HAVING berlaku untuk data yang dikelompokkan.
+WHERE memfilter baris; HAVING memfilter grup yang dibuat oleh GROUP BY.
+Klausa WHERE adalah untuk pemfilteran tingkat baris; HAVING adalah untuk pemfilteran tingkat grup.
+WHERE dapat digunakan sendiri; HAVING harus mengikuti GROUP BY.
+WHERE memfilter data sebelum pengelompokan; HAVING memfilter setelahnya.
+Anda menggunakan WHERE untuk memfilter baris dan HAVING untuk memfilter grup.
+WHERE digunakan sebelum data dikelompokkan; HAVING digunakan setelahnya.
