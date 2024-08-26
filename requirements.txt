@@ -9,4 +9,4 @@ transformers==4.44.2
 sentence-transformers==3.0.1
 torch==2.4.0
 pydantic==2.8.2
-tokenizers==0.11.4
+tokenizers==0.19.1
