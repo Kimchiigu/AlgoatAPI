@@ -1,2 +1,2 @@
 # AlgoatAPI
-This is the api code for algoat
+This is the api code for algoat and private
